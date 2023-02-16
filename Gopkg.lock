@@ -1,0 +1,2 @@
+dep init
+dep ensure
